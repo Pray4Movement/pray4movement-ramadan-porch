@@ -10,7 +10,7 @@ class Pray4movement_Ramadan_Porch_Loader extends DT_Generic_Porch_Loader {
         $this->label = __( 'Ramadan Landing Page', 'disciple-tools-prayer-campaign' );
         add_filter( 'dt_campaigns_wizard_types', array( $this, 'wizard_types' ) );
 
-        require_once( 'settings.php' );
+        require_once( __DIR__ . '/settings.php' );
     }
 
     public function wizard_types( $wizard_types ) {
