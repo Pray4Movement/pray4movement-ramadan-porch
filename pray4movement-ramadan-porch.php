@@ -5,7 +5,7 @@
  * Description: Pray4movement Ramadan Porch
  * Text Domain: pray4movement-ramadan-porch
  * Domain Path: /languages
- * Version:  0.1
+ * Version:  1.0
  * Author URI: https://github.com/DiscipleTools
  * GitHub Plugin URI: https://github.com/Pray4Movement/pray4movement-ramadan-porch
  * Requires at least: 4.7.0
