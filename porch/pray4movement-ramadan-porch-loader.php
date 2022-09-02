@@ -17,7 +17,7 @@ class Pray4movement_Ramadan_Porch_Loader extends DT_Generic_Porch_Loader {
         $wizard_types[$this->id] = [
             "campaign_type" => "24hour",
             "porch" => $this->id,
-            "label" => "Setup Landing page for a Ramadan Campaign",
+            "label" => "Ramadan Campaign",
         ];
 
         return $wizard_types;
